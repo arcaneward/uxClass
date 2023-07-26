@@ -1,1 +1,1 @@
-Prototype for C856
+Prototype for User Experience Design class
